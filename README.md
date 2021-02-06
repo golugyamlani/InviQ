@@ -1,4 +1,4 @@
-# inviq
+# inviQ
 
 A new Flutter project.
 
